@@ -22,7 +22,8 @@ Analysis of supermarket sales data across three cities using Python, Pandas, and
 - Ewallet is the most popular payment method
 - Food and beverages received the highest customer rating
 
-## Files
-- supermarket_analysis.py — Exploratory data analysis
-- supermarket_cleaning.py — Data cleaning pipeline
-- visualization.py — Dashboard and charts
+## Files Navigation
+* 📁 **data/** — Holds the raw supermarket transaction dataset (`.csv`)
+* 📁 **output/** — Holds the final high-resolution presentation charts and dashboards (`.png`)
+* 📄 **supermarket_analysis.py** — Master data engineering script handling the end-to-end cleaning pipelines, metric calculations, and Matplotlib visualization layouts
+
